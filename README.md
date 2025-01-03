@@ -4,7 +4,7 @@
 
 ### **_Este calendario muestra los días del mes actual y permite navegar entre los meses del año._**
 
-### ¿Cómo usarlo?
+### _¿Cómo usarlo?_
 Guarda el archivo HTML como index.html.
 Guarda el CSS como styles.css y el JavaScript como script.js en el mismo directorio.
 Abre el archivo index.html en un navegador web.
