@@ -8,7 +8,7 @@
 
 - **_Guarda el archivo en formato HTML como ```index.html```._**
   
-- **_Guarda el archivo en CSS como ```styles.css``` y el JavaScript como ```script.js``` en el mismo directorio._**
+- **_Guarda el archivo en CSS como ```styles.css``` y el JavaScript como ```script.js``` dentro del mismo directorio._**
   
 - **_Abre el archivo ```index.html``` en un navegador web._**
   
