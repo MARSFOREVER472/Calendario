@@ -4,7 +4,7 @@
 
 ### **_Este calendario muestra los días del mes actual y permite navegar entre los meses del año._**
 
-### **_¿Cómo usarlo?_**
+### **_¿Cómo utilizarlo?_**
 
 - **_Guarda el archivo en formato HTML como ```index.html```._**
   
