@@ -12,4 +12,4 @@
   
 - **_Abre el archivo index.html en un navegador web._**
   
-_¡Tendrás un calendario funcional y básico que puedes personalizar y mejorar según tus necesidades!_
+**_¡Tendrás un calendario funcional y básico que puedes personalizar y mejorar según tus necesidades!_**
