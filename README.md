@@ -10,6 +10,6 @@
   
 - **_Guarda el archivo en CSS como ```styles.css``` y el JavaScript como ```script.js``` dentro de un mismo directorio._**
   
-- **_Abre el archivo ```index.html``` dentro de un navegador web._**
+- **_Abre el archivo ```index.html``` dentro de tu navegador web._**
   
 **_¡Tendrás un calendario funcional y básico que puedes personalizar y mejorar según tus necesidades!_**
