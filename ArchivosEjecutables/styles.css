@@ -1,0 +1,77 @@
+/* CUERPO DE LA PÁGINA */
+
+body
+{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f9;
+}
+
+/* ENCABEZADO DEL CALENDARIO */
+
+.calendar-header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f00000;
+    color: #fff;
+}
+
+/* BOTÓN DEL ENCABEZADO DEL CALENDARIO */
+
+.calendar-header button
+{
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* CUERPO DEL CALENDARIO */
+
+.calendar-body
+{
+    padding: 10px;
+}
+
+/* DÍAS DE LA SEMANA */
+
+.days-header,
+.days
+{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+}
+
+/* ENCABEZADO DE LOS DÍAS DE LA SEMANA */
+
+.days-header div
+{
+    font-weight: bold;
+}
+
+/* DÍAS POR OTROS DÍAS DE LA SEMANA */
+
+.days div
+{
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 1px;
+}
+
+/* DÍA ACTUAL */
+
+.days div.today
+{
+    background-color: #f10000;
+    color: #fff;
+    border-radius: 50%;
+}
