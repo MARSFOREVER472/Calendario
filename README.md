@@ -11,4 +11,5 @@
 - **_Guarda el archivo en CSS como styles.css y el JavaScript como script.js en el mismo directorio._**
   
 - **_Abre el archivo index.html en un navegador web._**
+  
 ¡Tendrás un calendario funcional y básico que puedes personalizar y mejorar según tus necesidades!
