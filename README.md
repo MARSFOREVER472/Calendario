@@ -1,6 +1,6 @@
 # _Calendario_
 
-## **_Ejemplo básico y sencillo acerca de cómo crear un calendario interactivo en una página web utilizando HTML, CSS & JavaScript._**
+## **_Ejemplo básico y sencillo acerca de cómo crear un calendario interactivo mediante una página web utilizando HTML, CSS & JavaScript._**
 
 ### **_Este calendario muestra los días del mes actual y permite navegar entre los meses del año._**
 
