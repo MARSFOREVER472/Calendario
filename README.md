@@ -2,7 +2,7 @@
 
 ## **_Ejemplo básico y sencillo acerca de cómo elaborar un calendario interactivo mediante una página web utilizando HTML, CSS & JavaScript._**
 
-### **_Este calendario muestra los días del mes actual y permite navegar entre los meses del año._**
+### **_Este calendario muestra los días del mes actual y que permite navegar entre los meses del año._**
 
 ### **_¿Cómo utilizarlo?_**
 
