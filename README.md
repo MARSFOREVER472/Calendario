@@ -14,7 +14,7 @@
   
 **_¡Tendrás un calendario funcional y básico que puedes personalizar y mejorar según tus necesidades!_**
 
-# _Calendar_
+# **_Calendar_**
 
 ## **_Basic and simple example on how to create an interactive calendar on a web page using HTML, CSS & JavaScript._**
 
