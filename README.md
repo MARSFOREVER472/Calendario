@@ -24,7 +24,7 @@
 
 - **_Save the file in HTML format as ```index.html```._**
   
-- **_Save the CSS file as ```styles.css``` and the JavaScript as ```script.js``` within the same directory._**
+- **_Save the CSS file format as ```styles.css``` and the JavaScript as ```script.js``` within the same directory._**
   
 - **_Open the ```index.html``` file within your web browser._**
   
