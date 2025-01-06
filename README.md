@@ -13,3 +13,18 @@
 - **_Abre el archivo ```index.html``` dentro de tu navegador web._**
   
 **_¡Tendrás un calendario funcional y básico que puedes personalizar y mejorar según tus necesidades!_**
+# _Calendar_
+
+## **_Basic and simple example on how to create an interactive calendar on a web page using HTML, CSS & JavaScript._**
+
+### **_This calendar shows the days of the current month and allows you to navigate between the months of the year._**
+
+### **_How to use it?_**
+
+- **_Save the file in HTML format as ```index.html```._**
+  
+- **_Save the CSS file as ```styles.css``` and the JavaScript as ```script.js``` within the same directory._**
+  
+- **_Open the ```index.html``` file within your web browser._**
+  
+**_You will have a functional and basic calendar that you can customize and improve according to your needs!_**
